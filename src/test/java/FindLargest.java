@@ -4,6 +4,6 @@ public class FindLargest {
     }
 
     public static void main(String[] args) {
-        System.out.println(findLargest(4, 9, 21));
+        System.out.println(findLargest(5, 12, 9));
     }
 }
